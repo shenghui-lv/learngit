@@ -8,5 +8,5 @@ so if you want to master it ,just play with it .
 Git is a good software 
 Git has a mutable index called stage 
 Git is free software for engineer 
-if you want to improve it ,just practice again and again 
-
+if you want to improve it ,just practice again and again Git tracks changes
+Git tracks change hahahahahhahahahahahahahha 
